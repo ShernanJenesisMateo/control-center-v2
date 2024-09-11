@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <span className="text-5xl font-bold underline sample">Base Setup</span>
+      <span className="text-5xl font-bold underline sample">This is the Base Setup</span>
     </div>
   );
 }
